@@ -1,6 +1,6 @@
 kinesalite-docker
 ========
-Docker image of [kinesalite](https://github.com/mhart/kinesalite) which is an AWS Kinesis Node.js implementation.
+Docker image of [kinesalite](https://github.com/mhart/kinesalite) which is a Node.js implementation of AWS Kinesis.
 
 How to use this image
 --------
